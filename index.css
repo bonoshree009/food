@@ -1,0 +1,259 @@
+.mcontainer{
+    width:50%;
+    margin: auto;
+    box-sizing: border-box;
+    background-color: #eee4e4;
+}
+.bg-img {
+    /* The image used */
+    background-image: url("banner-bg.jpg");
+    min-height: 380px;
+  
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  
+    /* Needed to position the navbar */
+    position: relative;
+  }
+  
+  /* Position the navbar container inside the image */
+  .container {
+    position: absolute;
+    margin: 20px;
+    width:200px;
+  }
+  
+  /* The navbar */
+  .topnav {
+    overflow: hidden;
+    background-color: #ffffff;
+    
+    
+  }
+  
+  /* Navbar links */
+  .topnav a {
+    float: right;
+    color: #100d0d;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  .topnav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+
+  .p2{
+    color: white;
+    text-align: center;
+    margin-top: 50px;
+    padding-bottom: 20px;
+    border-bottom: 1px solid rgba(247, 198, 37, 0.896);
+    
+  }
+
+  .p1{
+    color:white;
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+    padding-bottom: 20px;
+    border-bottom: 1px solid rgba(247, 198, 37, 0.896);
+  }
+.button1{
+    margin-left: 380px;
+    margin-top: 30px;
+   
+}
+
+  button{
+    text-align: center;
+    color:white;
+    background-color: rgb(225, 144, 24);
+    margin-left: 100px;
+    border: none;
+    padding:12px;
+    
+
+    
+  }
+  button:hover{
+    color:black;
+    background-color: beige;
+    font-weight: bold;
+  }
+.title{
+    margin-top: 20px;
+}
+h2{
+    text-align: center;
+    
+}
+h6{
+    text-align: center;
+}
+.main{
+    display:flex;
+    justify-content: center;
+    margin-top: 40px;
+    
+
+}
+.items{
+    margin-left:16px;
+    margin-right: 16px;
+  
+
+}
+img{
+    
+    border-radius: 50%;
+}
+
+.item1{
+    font-weight: bold;
+    margin-left: 58px;
+}
+.v1{
+    margin-top: 15px;
+    color:gray;
+}
+
+.b2{
+    margin-top: 62px;
+    margin-bottom: 62px;
+}
+
+.b2{
+    margin-left: 380px;
+    margin-top: 30px;
+}
+.bodyl{
+    display: flex;
+
+}
+
+.h11{
+    
+}
+.lbody{
+    margin-left: 20px;
+}
+.rbody{
+   
+}
+.img2{
+    border:none;
+    border-radius: 0%;
+    width:400px;
+    
+}
+.bodyl{
+    margin-top: 70px;
+}
+.h6{
+    text-align: left;
+}
+
+
+    
+  .but2{
+    text-align: center;
+    color:white;
+    background-color: rgb(10, 10, 10);
+    
+    border: none;
+    padding:12px;
+    margin-top: 20px;
+}
+h4{
+    text-align: center;
+    
+}
+.foot{
+    margin:80px;
+}
+#customers {
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 85%;
+    margin-left: 70px;
+  }
+  
+  #customers td, #customers th {
+    border: 1px solid #ffffff;
+    padding: 8px;
+    text-align: center;
+  }
+  
+ 
+  
+  #customers th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: center;
+    
+    color: white;
+  }
+
+  .thst{
+    background-color: black;
+  }
+  .thst1{
+    background-color: gray;
+  }
+
+.cardall{
+    display: flex;
+}
+
+  .card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 300px;
+    margin: auto;
+    text-align: center;
+    font-family: arial;
+    border: 5px solid gray;
+    
+  }
+  
+  .price {
+    color: grey;
+    font-size: 22px;
+  }
+  
+  
+  .Blog{
+    margin-bottom:  50px;
+    margin-top: 80px;
+  }
+.post{
+    text-align: center;
+}
+.post2{
+    color:gray;
+}
+.last_img{
+    border:none;
+    border-radius: 0%;
+    
+}
+.mainc{
+  display:flex;
+  background-color: black;
+  margin-top: 70px;
+  padding:40px;
+ text-decoration: none;
+  
+}
+.link{
+  min-width: 350px;
+}
+p{
+  color:white;
+}
